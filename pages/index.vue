@@ -8,7 +8,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-6">
+			<div class="col-12 col-md-6">
 				<!-- Start Location -->
 				<place-input
 					v-model="startLocation"
@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-6">
+			<div class="col-12 col-md-6">
 				<!-- End Location -->
 				<place-input
 					v-model="endLocation"
