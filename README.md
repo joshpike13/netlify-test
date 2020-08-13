@@ -1,6 +1,6 @@
 # distance-calculator
 
-> Quick project I did to test out netlify deployments. Simple Vue interface that uses the Google Maps API to calculate the distance between to addresses. 
+> Quick project I did to test out netlify deployments. Simple Vue interface that uses the Google Maps API to calculate the distance between to addresses. https://admiring-johnson-7b5f52.netlify.app
 
 ## Build Setup
 
